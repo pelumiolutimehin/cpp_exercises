@@ -1,0 +1,12 @@
+﻿  SamuelOlutimehin_StarSearchProgram.cpp
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(76,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(80,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(84,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(88,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(92,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(104,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(108,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(112,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(116,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram\SamuelOlutimehin_StarSearchProgram.cpp(120,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SamuelOlutimehin_StarSearchProgram.vcxproj -> C:\Users\oluti\source\repos\SamuelOlutimehin_StarSearchProgram\Debug\SamuelOlutimehin_StarSearchProgram.exe

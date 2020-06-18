@@ -1,0 +1,3 @@
+﻿  SamuelOlutimehin_Program.cpp
+C:\Users\oluti\source\repos\SamuelOlutimehin_Program\SamuelOlutimehin_Program\SamuelOlutimehin_Program.cpp(54,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SamuelOlutimehin_Program.vcxproj -> C:\Users\oluti\source\repos\SamuelOlutimehin_Program\Debug\SamuelOlutimehin_Program.exe
